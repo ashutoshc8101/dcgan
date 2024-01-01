@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+celeba/
+data/
+mnist/
+venv/
+checkpoints/
+runs/
